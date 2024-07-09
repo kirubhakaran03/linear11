@@ -1,4 +1,4 @@
-pandas
-streamlit
-scikit-learn
-numpy
+import pandas as pd
+import streamlit as st
+import scikit-learn
+
